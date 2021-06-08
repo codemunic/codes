@@ -1,6 +1,6 @@
-## Quick References:
+# Quick References:
 
-# Heroku Deployment
+## Heroku Deployment
 
 1. heroku login -i
 2. heroku create app-name
@@ -10,5 +10,5 @@
 6. git commit -am "initial deployment"
 7. git push heroku master
 
-# Make requirements.txt
+## Make requirements.txt
   pip freeze > requirements.txt
